@@ -1,5 +1,5 @@
 # rainbowtext
-Adds the rainbow text markup to LynxChan 2.4
+Adds the rainbow text markup to LynxChan 2.6
 
 <b>Installation instructions:</b>
 
