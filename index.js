@@ -2,7 +2,7 @@
 
 var common = require('../../engine/postingOps').common;
 
-exports.engineVersion = '2.6';
+exports.engineVersion = '2.7';
 
 exports.init = function() {
 
